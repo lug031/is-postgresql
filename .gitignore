@@ -1,0 +1,6 @@
+# Archivos de registro y archivos temporales
+logs/
+*.log
+*.swp
+*.swo
+*.tmp
